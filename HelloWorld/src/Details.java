@@ -1,5 +1,5 @@
 
-public class HelloWorld {
+public class Details {
 
 	public static void main(String[] args) {
 		 
@@ -9,7 +9,5 @@ public class HelloWorld {
 		System.out.println("Test another commit");
 
 	}
-	
-		
 	
 }
